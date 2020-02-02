@@ -1,0 +1,6 @@
+Open "RunWEBSITE.html" 
+
+(make sure you are using chrome or other HTML5 compatible sites,
+also the browser must be latest version I think?
+
+This is not required but it's highly recommended if you want this file to run and display properly.)
